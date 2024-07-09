@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "lazo Gris",
+      "price": "4,00",
+      "image": "https://www.instagram.com/p/CuX6cQ0OIX6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "id": 1
+    },
+    {
+      "name": "lazo Rojo",
+      "price": "5,00",
+      "image": "https://w7.pngwing.com/pngs/579/282/png-transparent-red-lazos-thumbnail.pngx",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
